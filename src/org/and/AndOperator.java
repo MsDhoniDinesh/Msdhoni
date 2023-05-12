@@ -18,6 +18,11 @@ public class AndOperator {
 
 		
 	}
+	
+	private void sysout() {
+		System.out.println("Done");
+
+	}
 
 	public static void main(String[] args) {
 		AndOperator R = new AndOperator();
