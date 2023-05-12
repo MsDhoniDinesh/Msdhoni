@@ -18,6 +18,11 @@ public class AndOperator {
 
 		
 	}
+	
+	private void qwer() {
+		System.out.println("wertyjhgfdsdbn");
+
+	}
 
 	public static void main(String[] args) {
 		AndOperator R = new AndOperator();
@@ -25,5 +30,6 @@ public class AndOperator {
 
 		System.out.println("Among A,B,C the greatest number is " + V);
 	}
+	
 
 }
