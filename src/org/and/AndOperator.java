@@ -19,8 +19,13 @@ public class AndOperator {
 		
 	}
 	
+
 	private void sysout() {
 		System.out.println("Done");
+	}
+	private void qwer() {
+		System.out.println("wertyjhgfdsdbn");
+
 
 	}
 
@@ -30,5 +35,6 @@ public class AndOperator {
 
 		System.out.println("Among A,B,C the greatest number is " + V);
 	}
+	
 
 }
